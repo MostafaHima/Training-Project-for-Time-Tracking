@@ -13,6 +13,6 @@ This is a simple project to practice tracking daily task hours using the Pixela 
 3. Run the script and enter your task details for the day.
 
 ## Graph Link
-[View your progress here](https://pixe.la/v1/users/mostafahima/graphs/first-graph.html)
+[View my progress here](https://pixe.la/v1/users/mostafahima/graphs/first-graph.html)
 
 **Enjoy tracking your progress and keep learning!** 🎯
